@@ -1,2 +1,2 @@
-# stm32-pwm-fan--controller
-# Work in progress — project will be completed by March 30, 2026
+# STM32 PWM Temperature Fan Controller
+Work in progress — project completed by March 30, 2026
